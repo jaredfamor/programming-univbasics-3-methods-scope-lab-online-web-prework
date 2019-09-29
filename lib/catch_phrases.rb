@@ -13,6 +13,6 @@ def link
 end
 
 def any_phrase(phrase = "Do A Barrel Roll!")
-puts "takes in an argument and puts out the catch phrase"
+says "takes in an argument and puts out the catch phrase"
 puts "Do A Barrel Roll!"
 end
