@@ -14,5 +14,5 @@ end
 
 def any_phrase
   any_phrase(phrase)
-  says = "Do A Barrel Roll!"
+  "Do A Barrel Roll!"
 end
