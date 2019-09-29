@@ -13,6 +13,6 @@ def link
 end
 
 def any_phrase
-  status = "Orange you glad I didn't say banana."
+  status = "takes in an argument and puts out the catch phrase"
   puts phrase
 end
