@@ -1,4 +1,5 @@
 def mario
+status = 
 puts "'It's-a me, Mario!'"
 end
 
