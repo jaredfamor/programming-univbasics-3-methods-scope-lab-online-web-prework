@@ -1,5 +1,5 @@
 def mario
-status = "puts out 'It's-a me, Mario!'"
+status = "It's-a me, Mario!"
 puts "'It's-a me, Mario!'"
 end
 
