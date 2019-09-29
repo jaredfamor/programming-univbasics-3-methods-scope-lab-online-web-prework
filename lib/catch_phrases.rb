@@ -13,6 +13,6 @@ def link
 end
 
 def any_phrase
-  status = "any_phrase"
+  status = "Do A Barrel Roll!"
 puts "Do A Barrel Roll!"
 end
