@@ -14,5 +14,5 @@ end
 
 def any_phrase
   any_phrase(phrase)
-  "Do A Barrel Roll!"
+ puts "Do A Barrel Roll!"
 end
