@@ -14,5 +14,5 @@ end
 
 def any_phrase
   status = "Orange you glad I didn't say banana"
-  "Do A Barrel Roll!"
+puts "Do A Barrel Roll!"
 end
