@@ -1,6 +1,6 @@
 def mario
-"'It's-a me, Mario!'"
- phrase
+status "'It's-a me, Mario!'"
+puts phrase
 end
 
 def toadstool
