@@ -14,5 +14,5 @@ end
 
 def any_phrase(phrase = "Do A Barrel Roll!")
 puts "takes in an argument and puts out the catch phrase"
-says "Do A Barrel Roll!"
+status "Do A Barrel Roll!"
 end
