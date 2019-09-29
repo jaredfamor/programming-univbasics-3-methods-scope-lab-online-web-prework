@@ -13,6 +13,6 @@ def link
 end
 
 def any_phrase
-  status = "Do A Barrel Roll!" "takes in an argument and puts out the catch phrase"
+  status = any_phrase
 puts "Do A Barrel Roll!"
 end
