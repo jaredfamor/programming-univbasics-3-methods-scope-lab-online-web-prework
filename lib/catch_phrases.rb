@@ -13,6 +13,6 @@ def link
 end
 
 def any_phrase
-  status = 'Orange you glad I didn't say banana'
+  status = "Orange you glad I didn't say banana"
   puts  "Do A Barrel Roll!"
 end
